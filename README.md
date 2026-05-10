@@ -21,6 +21,10 @@ This project solves exactly that. You upload a photo of a new dress design, and 
 
 ---
 
+## 🎬 Demo Video
+
+[▶️ Click to Watch Demo](https://youtu.be/aPk7veoITWk)
+
 ## The Real Challenge — Connecting Images to Sales Data
 
 Before any ML could happen, there was a fundamental data engineering problem to solve.
